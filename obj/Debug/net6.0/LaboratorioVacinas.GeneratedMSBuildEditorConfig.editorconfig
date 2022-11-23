@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LaboratorioVacinas
+build_property.RootNamespace = LaboratorioVacinas
+build_property.ProjectDir = C:\Users\AlunoVDI\Downloads\AtvVirusVacina-main (1)\AtvVirusVacina-main\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\AlunoVDI\Downloads\AtvVirusVacina-main (1)\AtvVirusVacina-main
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Vacinas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjaW5hc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Vacinas/CreateVirusVacina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjaW5hc1xDcmVhdGVWaXJ1c1ZhY2luYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Vacinas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjaW5hc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Vacinas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjaW5hc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Vacinas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjaW5hc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Vacinas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjaW5hc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Virus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Virus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Virus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Virus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Virus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlydXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AlunoVDI/Downloads/AtvVirusVacina-main (1)/AtvVirusVacina-main/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5mdq9a9mnz
